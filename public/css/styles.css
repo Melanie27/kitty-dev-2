@@ -1,0 +1,22 @@
+.img-polaroid.small {
+
+	width: 150px;
+}
+
+.products { 
+	
+	width:400px;
+	float:left;
+}
+
+.cart-counter {
+	float:left;
+	border:solid 1px blue;
+	width:200px;
+	height:200px;
+}
+
+.form-horizontal {
+	
+	margin-bottom:60px;
+}

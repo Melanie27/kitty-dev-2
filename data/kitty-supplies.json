@@ -1,0 +1,74 @@
+[
+	{
+		"id": "cutie-collar",
+		"url" : "cutie-collar",
+		"name": "Cutie Collar",
+		"keyword" : "Identification",
+		"description" : "This is one adorable collar.",
+		"price" : "$100",
+		"quantity" : "1",
+		"imagepathsm" : "cutie-collar.jpg"
+
+	},
+
+	{
+		"id": "litter-robot",
+		"url" : "litter-robot",
+		"name": "Litter Robot",
+		"keyword" : "Toillette",
+		"description" : "From the future",
+		"price" : "$300",
+		"quantity" : "1",
+		"imagepathsm" : "litter-robot.jpg"
+
+	},
+
+	{
+		"id": "lotus-fountain",
+		"url" : "lotus-fountain",
+		"name": "Lotus Fountain",
+		"keyword" : "Hydration",
+		"description" : "Tranquil pools of water",
+		"price" : "$1000",
+		"quantity" : "1",
+		"imagepathsm" : "lotus-fountain.jpg"
+
+	},
+
+	{
+		"id": "peek-a-puzzle",
+		"url" : "peek-a-puzzle",
+		"name": "Peek a Puzzle",
+		"keyword" : "Playtime",
+		"description" : "Time to romp",
+		"price" : "$50",
+		"quantity" : "1",
+		"imagepathsm" : "peek-a-puzzle.jpg"
+
+	},
+
+	{
+		"id": "zen-perch",
+		"url" : "zen-perch",
+		"name": "Zen Perch",
+		"keyword" : "Recline",
+		"description" : "Crazy Ass Perch",
+		"price" : "$300",
+		"quantity" : "1",
+		"imagepathsm" : "zen-perch.jpg"
+
+	},
+
+	{
+		"id": "raised-fountain",
+		"url" : "raised-fountain",
+		"name": "Raised Fountain",
+		"keyword" : "Hydration",
+		"description" : "Raised pools of water",
+		"price" : "$200",
+		"quantity" : "1",
+		"imagepathsm" : "raised-fountain.jpg"
+
+	}	
+
+]
